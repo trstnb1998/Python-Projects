@@ -14,6 +14,7 @@
 # Height: 6
 
 # The area is 15
+
 import math
 
 print("1) Triangle")
